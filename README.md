@@ -1,4 +1,4 @@
-# Dataset for Analysing Knowledge Gain
+# Dataset Description
 
 The dataset.zip contains data collected through crowd sourcing platform for the purpose of analyzing knowledge gain of users in informational search sessions.
 
